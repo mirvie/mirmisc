@@ -109,7 +109,29 @@ mutate_genes <- function(df, f) {
   df
 }
 
-#' Convert gene names to/from ensembl.
+#' Filter genes using a predicate function.
+#'
+#' Gene names are elements of [get_gene_names()]. Genes for whom the predicate
+#' function `f()` evaluates to `FALSE` are dropped.
+#'
+#' @param df A data frame some of whose column names are gene names.
+#' @param f A predicate function or a formula coercible to a function by
+#'   [rlang::as_function()].
+#'
+#' @return A data frame.
+#'
+#' @export
+filter_genes <- function(df, f) {
+  checkmate::assert_data_frame(df, col.names = "named")
+  if (rlang::is_formula(f)) f <- rlang::as_function(f)
+  df_gene_names <- get_df_gene_names(df)
+  for (gn in df_gene_names) {
+    if (!f(df[[gn]])) df[[gn]] <- NULL
+  }
+  df
+}
+
+#' Convert gene names to/from Ensembl.
 #'
 #' This function works in a particular way: inputs that don't look like a gene
 #' at all are returned as is.

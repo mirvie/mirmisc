@@ -2,7 +2,7 @@
 % Please edit documentation in R/gene-names.R
 \name{convert_gene_names}
 \alias{convert_gene_names}
-\title{Convert gene names to/from ensembl.}
+\title{Convert gene names to/from Ensembl.}
 \usage{
 convert_gene_names(x, ensembl = "from")
 }

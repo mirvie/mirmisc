@@ -1,0 +1,151 @@
+sample,dummy_id,sampleName,Donor,condition,Index,Pregnancy_status,Source,Troubleshooting,Priority,id_tech_rep
+DP_QM_1,id1,DP_QM_1_S50,DTPR Pool,QM1,U019,Yes,Prospective_Samples_DTPR_Pool,PF_Troubleshoot_8,3,DP_QM
+DP_QM_2,id1,DP_QM_2_S51,DTPR Pool,QM2,U020,Yes,Prospective_Samples_DTPR_Pool,PF_Troubleshoot_8,3,DP_QM
+DP_QM_3,id1,DP_QM_3_S52,DTPR Pool,QM3,U021,Yes,Prospective_Samples_DTPR_Pool,PF_Troubleshoot_8,3,DP_QM
+DP_QM_4,id1,DP_QM_4_S53,DTPR Pool,QM4,U022,Yes,Prospective_Samples_DTPR_Pool,PF_Troubleshoot_8,3,DP_QM
+DP_Qppt_1,id1,DP_Qppt_1_S54,DTPR Pool,Qppt1,U023,Yes,Prospective_Samples_DTPR_Pool,PF_Troubleshoot_8,3,DP_Qppt
+DP_Qppt_2,id1,DP_Qppt_2_S55,DTPR Pool,Qppt2,U024,Yes,Prospective_Samples_DTPR_Pool,PF_Troubleshoot_8,3,DP_Qppt
+DP_Qppt_3,id1,DP_Qppt_3_S56,DTPR Pool,Qppt3,U110,Yes,Prospective_Samples_DTPR_Pool,PF_Troubleshoot_8,3,DP_Qppt
+DP_Qppt_4,id1,DP_Qppt_4_S57,DTPR Pool,Qppt4,U111,Yes,Prospective_Samples_DTPR_Pool,PF_Troubleshoot_8,3,DP_Qppt
+DP_QQ283_1,id1,DP_QQ283_1_S46,DTPR Pool,QQ283-1,U015,Yes,Prospective_Samples_DTPR_Pool,PF_Troubleshoot_8,3,DP_QQ283
+DP_QQ283_2,id1,DP_QQ283_2_S47,DTPR Pool,QQ283-2,U016,Yes,Prospective_Samples_DTPR_Pool,PF_Troubleshoot_8,3,DP_QQ283
+DP_QQ283_3,id1,DP_QQ283_3_S48,DTPR Pool,QQ283-3,U017,Yes,Prospective_Samples_DTPR_Pool,PF_Troubleshoot_8,3,DP_QQ283
+DP_QQ283_4,id1,DP_QQ283_4_S49,DTPR Pool,QQ283-4,U018,Yes,Prospective_Samples_DTPR_Pool,PF_Troubleshoot_8,3,DP_QQ283
+DP_QZ_1,id1,DP_QZ_1_S42,DTPR Pool,QZ1,U011,Yes,Prospective_Samples_DTPR_Pool,PF_Troubleshoot_8,3,DP_QZ
+DP_QZ_2,id1,DP_QZ_2_S43,DTPR Pool,QZ2,U012,Yes,Prospective_Samples_DTPR_Pool,PF_Troubleshoot_8,3,DP_QZ
+DP_QZ_4,id1,DP_QZ_4_S45,DTPR Pool,QZ4,U014,Yes,Prospective_Samples_DTPR_Pool,PF_Troubleshoot_8,3,DP_QZ
+M001S_Full_1,id1,M001S_Full_1_S134,M001S,Full,U072,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M001S_Full
+M001S_Full_2,id1,M001S_Full_2_S135,M001S,Full,U073,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M001S_Full
+M001S_Full_3,id1,M001S_Full_3_S136,M001S,Full,U074,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M001S_Full
+M001S_p25_1,id1,M001S_p25_1_S143,M001S,p25,U081,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M001S_p25
+M001S_p25_2,id1,M001S_p25_2_S144,M001S,p25,U082,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M001S_p25
+M001S_p25_3,id1,M001S_p25_3_S145,M001S,p25,U083,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M001S_p25
+M001S_p5_1,id1,M001S_p5_1_S140,M001S,p5,U078,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M001S_p5
+M001S_p5_2,id1,M001S_p5_2_S141,M001S,p5,U079,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M001S_p5
+M001S_p5_3,id1,M001S_p5_3_S142,M001S,p5,U080,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M001S_p5
+M001S_p75_1,id1,M001S_p75_1_S137,M001S,p75,U075,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M001S_p75
+M001S_p75_2,id1,M001S_p75_2_S138,M001S,p75,U076,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M001S_p75
+M001S_p75_3,id1,M001S_p75_3_S139,M001S,p75,U077,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M001S_p75
+M002S_Full_1,id1,M002S_Full_1_S146,M002S,Full,U084,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M002S_Full
+M002S_Full_2,id1,M002S_Full_2_S147,M002S,Full,U085,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M002S_Full
+M002S_Full_3,id1,M002S_Full_3_S148,M002S,Full,U086,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M002S_Full
+M002S_p25_1,id1,M002S_p25_1_S155,M002S,p25,U093,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M002S_p25
+M002S_p25_2,id1,M002S_p25_2_S156,M002S,p25,U094,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M002S_p25
+M002S_p25_3,id1,M002S_p25_3_S157,M002S,p25,U095,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M002S_p25
+M002S_p5_1,id1,M002S_p5_1_S152,M002S,p5,U090,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M002S_p5
+M002S_p5_2,id1,M002S_p5_2_S153,M002S,p5,U091,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M002S_p5
+M002S_p5_3,id1,M002S_p5_3_S154,M002S,p5,U092,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M002S_p5
+M002S_p75_1,id1,M002S_p75_1_S149,M002S,p75,U087,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M002S_p75
+M002S_p75_2,id1,M002S_p75_2_S150,M002S,p75,U088,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M002S_p75
+M002S_p75_3,id1,M002S_p75_3_S151,M002S,p75,U089,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M002S_p75
+M004S_Full_1,id1,M004S_Full_1_S158,M004S,Full,U096,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M004S_Full
+M004S_Full_2,id1,M004S_Full_2_S159,M004S,Full,U097,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M004S_Full
+M004S_Full_3,id1,M004S_Full_3_S160,M004S,Full,U098,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M004S_Full
+M004S_p25_1,id1,M004S_p25_1_S167,M004S,p25,U105,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M004S_p25
+M004S_p25_2,id1,M004S_p25_2_S168,M004S,p25,U106,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M004S_p25
+M004S_p25_3,id1,M004S_p25_3_S169,M004S,p25,U107,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M004S_p25
+M004S_p5_1,id1,M004S_p5_1_S164,M004S,p5,U102,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M004S_p5
+M004S_p5_2,id1,M004S_p5_2_S165,M004S,p5,U103,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M004S_p5
+M004S_p5_3,id1,M004S_p5_3_S166,M004S,p5,U104,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M004S_p5
+M004S_p75_1,id1,M004S_p75_1_S161,M004S,p75,U099,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M004S_p75
+M004S_p75_2,id1,M004S_p75_2_S162,M004S,p75,U100,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M004S_p75
+M004S_p75_3,id1,M004S_p75_3_S163,M004S,p75,U101,Yes,Blood_Titration_Study,Blood_Titration_Study,4,M004S_p75
+N_Ppt_PC,id1,N_Ppt_PC_S36,PC,N_Ppt_PC,U158,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,N_Ppt
+NC_QM,id1,NC_QM_S133,NTCL006092,NTC,U035,Unknown,Pitts_QC,Pitts_QC,2,NC
+NTC_QQ283,id1,NTC_QQ283_S96,NTC,NTC_QQ283,U109,Yes,Blood_Titration_Study,Blood_Titration_Study,4,NTC
+NTC_QQ283,id2,NTC_QQ283_S171,NTC,NTC_QQ283,U109,Yes,Blood_Titration_Study,Blood_Titration_Study,4,NTC
+NZG_NTC,id1,NZG_NTC_S63,NTCL006084,NZG,U170,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,NZG
+NZG_PC,id1,NZG_PC_S62,PCB005005,NZG_PC,U169,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,NZG
+NZGld_PC,id1,NZGld_PC_S22,PC,NZGld_PC,U120,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,NZGld
+NZQC_NTC,id1,NZQC_NTC_S69,NTCL006085,NZQC,U176,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,NZQC
+NZQC_PC,id1,NZQC_PC_S68,PCB005006,NZQC_PC,U175,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,NZQC
+P2_N_Ppt_1,id1,P2_N_Ppt_1_S32,DLS Pool2,N_Ppt,U154,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_N_Ppt
+P2_N_Ppt_2,id1,P2_N_Ppt_2_S33,DLS Pool2,N_Ppt,U155,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_N_Ppt
+P2_N_Ppt_3,id1,P2_N_Ppt_3_S34,DLS Pool2,N_Ppt,U156,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_N_Ppt
+P2_N_Ppt_4,id1,P2_N_Ppt_4_S35,DLS Pool2,N_Ppt,U157,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_N_Ppt
+P2_NM_1,id1,P2_NM_1_S14,DLS Pool2,NM,U112,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_NM
+P2_NM_2,id1,P2_NM_2_S15,DLS Pool2,NM,U113,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_NM
+P2_NM_3,id1,P2_NM_3_S16,DLS Pool2,NM,U114,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_NM
+P2_NM_4,id1,P2_NM_4_S17,DLS Pool2,NM,U115,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_NM
+P2_NQ283_1,id1,P2_NQ283_1_S28,DLS Pool2,NQ283,U150,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_NQ283
+P2_NQ283_2,id1,P2_NQ283_2_S29,DLS Pool2,NQ283,U151,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_NQ283
+P2_NQ283_3,id1,P2_NQ283_3_S30,DLS Pool2,NQ283,U152,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_NQ283
+P2_NQ283_4,id1,P2_NQ283_4_S31,DLS Pool2,NQ283,U153,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_NQ283
+P2_NZGld_1,id1,P2_NZGld_1_S18,DLS Pool2,NZGld,U116,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_NZGld
+P2_NZGld_2,id1,P2_NZGld_2_S19,DLS Pool2,NZGld,U117,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_NZGld
+P2_NZGld_3,id1,P2_NZGld_3_S20,DLS Pool2,NZGld,U118,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_NZGld
+P2_NZGld_4,id1,P2_NZGld_4_S21,DLS Pool2,NZGld,U119,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_NZGld
+P2_Q_Ppt_1,id1,P2_Q_Ppt_1_S37,DLS Pool2,Q_Ppt,U159,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_Q_Ppt
+P2_Q_Ppt_2,id1,P2_Q_Ppt_2_S38,DLS Pool2,Q_Ppt,U160,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_Q_Ppt
+P2_Q_Ppt_3,id1,P2_Q_Ppt_3_S39,DLS Pool2,Q_Ppt,U161,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_Q_Ppt
+P2_Q_Ppt_4,id1,P2_Q_Ppt_4_S40,DLS Pool2,Q_Ppt,U162,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_Q_Ppt
+P2_QQ283_1,id1,P2_QQ283_1_S23,DLS Pool2,QQ283,U145,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_QQ283
+P2_QQ283_2,id1,P2_QQ283_2_S24,DLS Pool2,QQ283,U146,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_QQ283
+P2_QQ283_3,id1,P2_QQ283_3_S25,DLS Pool2,QQ283,U147,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_QQ283
+P2_QQ283_4,id1,P2_QQ283_4_S26,DLS Pool2,QQ283,U148,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,P2_QQ283
+P3_NZGld_1,id1,P3_NZGld_1_S101,DLS Pool3,NZGld,U121,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,P3_NZGld
+P3_NZGld_2,id1,P3_NZGld_2_S102,DLS Pool3,NZGld,U122,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,P3_NZGld
+P3_NZGld_3,id1,P3_NZGld_3_S103,DLS Pool3,NZGld,U123,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,P3_NZGld
+P3_NZGld_4,id1,P3_NZGld_4_S104,DLS Pool3,NZGld,U124,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,P3_NZGld
+P3_QM_1,id1,P3_QM_1_S111,DLS Pool3,QM,U131,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,P3_QM
+P3_QM_2,id1,P3_QM_2_S112,DLS Pool3,QM,U132,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,P3_QM
+P3_QM_3,id1,P3_QM_3_S113,DLS Pool3,QM,U133,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,P3_QM
+P3_QM_4,id1,P3_QM_4_S114,DLS Pool3,QM,U134,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,P3_QM
+P3_QPpt_1,id1,P3_QPpt_1_S117,DLS Pool3,QPpt,U137,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,P3_QPpt
+P3_QPpt_2,id1,P3_QPpt_2_S118,DLS Pool3,QPpt,U138,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,P3_QPpt
+P3_QPpt_3,id1,P3_QPpt_3_S119,DLS Pool3,QPpt,U139,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,P3_QPpt
+P3_QPpt_4,id1,P3_QPpt_4_S120,DLS Pool3,QPpt,U140,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,P3_QPpt
+P3_QQ283_1,id1,P3_QQ283_1_S105,DLS Pool3,QQ283,U125,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,P3_QQ283
+P3_QQ283_2,id1,P3_QQ283_2_S106,DLS Pool3,QQ283,U126,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,P3_QQ283
+P3_QQ283_3,id1,P3_QQ283_3_S107,DLS Pool3,QQ283,U127,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,P3_QQ283
+P3_QQ283_4,id1,P3_QQ283_4_S108,DLS Pool3,QQ283,U128,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,P3_QQ283
+PC_QM,id1,PC_QM_S132,PCB005013,PC,U034,Unknown,Pitts_QC,Pitts_QC,2,PC
+PC_QQ283,id1,PC_QQ283_S95,PC,PC_QQ283,U108,Yes,Blood_Titration_Study,Blood_Titration_Study,4,PC
+PC_QQ283,id2,PC_QQ283_S170,PC,PC_QQ283,U108,Yes,Blood_Titration_Study,Blood_Titration_Study,4,PC
+Pitts_Ctrl_1,id1,Pitts_Ctrl_1_S123,B0001-E,Pitts Ctrl,U025,Unknown,Pitts_QC,Pitts_QC,2,Pitts_Ctrl
+Pitts_Ctrl_2,id1,Pitts_Ctrl_2_S124,A0031-E,Pitts Ctrl,U026,Unknown,Pitts_QC,Pitts_QC,2,Pitts_Ctrl
+Pitts_Ctrl_3,id1,Pitts_Ctrl_3_S125,C0132-E,Pitts Ctrl,U027,Unknown,Pitts_QC,Pitts_QC,2,Pitts_Ctrl
+Pitts_Ctrl_4,id1,Pitts_Ctrl_4_S126,B1133-E,Pitts Ctrl,U028,Unknown,Pitts_QC,Pitts_QC,2,Pitts_Ctrl
+Pitts_Ctrl_5,id1,Pitts_Ctrl_5_S127,A1399-E,Pitts Ctrl,U029,Unknown,Pitts_QC,Pitts_QC,2,Pitts_Ctrl
+Pitts_Ctrl_6,id1,Pitts_Ctrl_6_S128,C1717-E,Pitts Ctrl,U030,Unknown,Pitts_QC,Pitts_QC,2,Pitts_Ctrl
+Pitts_Ctrl_7,id1,Pitts_Ctrl_7_S129,B2851-E,Pitts Ctrl,U031,Unknown,Pitts_QC,Pitts_QC,2,Pitts_Ctrl
+Pitts_Ctrl_8,id1,Pitts_Ctrl_8_S130,B3021-E,Pitts Ctrl,U032,Unknown,Pitts_QC,Pitts_QC,2,Pitts_Ctrl
+Pitts_Ctrl_9,id1,Pitts_Ctrl_9_S131,C3406-E,Pitts Ctrl,U033,Unknown,Pitts_QC,Pitts_QC,2,Pitts_Ctrl
+Q_Ppt_PC,id1,Q_Ppt_PC_S41,PC,Q_Ppt_PC,U163,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,Q_Ppt
+QM_NC,id1,QM_NC_S116,DLS Pool3,QM_NC,U136,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,QM
+QM_NTC,id1,QM_NTC_S81,NTCL006087,QM,U188,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,QM
+QM_PC,id1,QM_PC_S80,DLS Pool3,QM_PC,U135,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,QM
+QM_PC,id1,QM_PC_S80,PCB005008,QM_PC,U187,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,QM
+QM_PC,id2,QM_PC_S115,DLS Pool3,QM_PC,U135,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,QM
+QM_PC,id2,QM_PC_S115,PCB005008,QM_PC,U187,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,QM
+QPpt_NC,id1,QPpt_NC_S122,DLS Pool3,QPpt_NC,U142,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,QPpt
+QPPT_NTC,id1,QPPT_NTC_S87,NTCL006088,QPPT,U026,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,QPPT
+QPpt_PC,id1,QPpt_PC_S121,DLS Pool3,QPpt_PC,U141,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,QPpt
+QPPT_PC,id1,QPPT_PC_S86,PCB005009,QPPT_PC,U025,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,QPPT
+QQ_NTC,id1,QQ_NTC_S75,NTCL006086,QQSOP,U182,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,QQ
+QQ_PC,id1,QQ_PC_S74,PCB005007,QQSOP_PC,U181,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,QQ
+QQ283_NC,id1,QQ283_NC_S110,DLS Pool3,QQ283_NC,U130,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,QQ283
+QQ283_PC,id1,QQ283_PC_S27,PC,QQ283_PC,U149,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,QQ283
+QQ283_PC,id1,QQ283_PC_S27,DLS Pool3,QQ283_PC,U129,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,QQ283
+QQ283_PC,id2,QQ283_PC_S109,PC,QQ283_PC,U149,No,Retrospcective_Sample_Type_DLS_Pool,PF_trbleshoot7_RNA_plate,1a,QQ283
+QQ283_PC,id2,QQ283_PC_S109,DLS Pool3,QQ283_PC,U129,No,Retrospcective_Sample_Type_DLS_Pool,PF Troubleshooting_10_DLS_EDTA_1ml,1b,QQ283
+RS_NZG_1,id1,RS_NZG_1_S58,9045651+52:811,NZG,U165,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_NZG
+RS_NZG_2,id1,RS_NZG_2_S59,90130411,NZG,U166,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_NZG
+RS_NZG_3,id1,RS_NZG_3_S60,90391611,NZG,U167,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_NZG
+RS_NZG_4,id1,RS_NZG_4_S61,90233811,NZG,U168,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_NZG
+RS_NZQC_1,id1,RS_NZQC_1_S64,90583411,NZQC,U171,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_NZQC
+RS_NZQC_2,id1,RS_NZQC_2_S65,90474511,NZQC,U172,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_NZQC
+RS_NZQC_3,id1,RS_NZQC_3_S66,90468111,NZQC,U173,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_NZQC
+RS_NZQC_4,id1,RS_NZQC_4_S67,90461711,NZQC,U174,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_NZQC
+RS_QM_1,id1,RS_QM_1_S76,90429311,QM,U183,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_QM
+RS_QM_2,id1,RS_QM_2_S77,90269511,QM,U184,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_QM
+RS_QM_3,id1,RS_QM_3_S78,90252211,QM,U185,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_QM
+RS_QM_4,id1,RS_QM_4_S79,90529311,QM,U186,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_QM
+RS_QPPT_1,id1,RS_QPPT_1_S82,90367611,QPPT,U189,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_QPPT
+RS_QPPT_2,id1,RS_QPPT_2_S83,90317311,QPPT,U190,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_QPPT
+RS_QPPT_3,id1,RS_QPPT_3_S84,90385711,QPPT,U191,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_QPPT
+RS_QPPT_4,id1,RS_QPPT_4_S85,90408211,QPPT,U192,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_QPPT
+RS_QQ_1,id1,RS_QQ_1_S70,90447711,QQSOP,U177,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_QQ
+RS_QQ_2,id1,RS_QQ_2_S71,90507011,QQSOP,U178,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_QQ
+RS_QQ_3,id1,RS_QQ_3_S72,90552811,QQSOP,U179,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_QQ
+RS_QQ_4,id1,RS_QQ_4_S73,90615111,QQSOP,U180,Postpartum,RosKilde_postpartum,PF Troubleshooting_9_RS_EDTA_1ml,1c,RS_QQ

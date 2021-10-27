@@ -6,8 +6,7 @@
 \alias{mirmisc-package}
 \title{mirmisc: Non-Modeling Helper Functions For Mirvie R Coders}
 \description{
-We have random bits of code that are quite useful.
-    This is a home for those scripts.
+We have random bits of code that are quite useful. This is a home for it.
 }
 \seealso{
 Useful links:

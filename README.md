@@ -1,5 +1,38 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
 # mirmisc
 
-[![DOI](https://zenodo.org/badge/420179072.svg)](https://zenodo.org/badge/latestdoi/420179072)
+<!-- badges: start -->
+<!-- badges: end -->
 
-To install, download and `cd` into the directory containing the file `DESCRIPTION`. From there, in R, run `devtools::install()`. If you are missing some packages, devtools will tell you that. I recommend installing them using `BiocManager::install()` because some dependencies are from Bioconductor.
+## Installation
+
+1.  In R, run
+
+        install.packages("BiocManager", repo = "https://cran.rstudio.com/") 
+
+2.  In R, run
+
+        BiocManager::install(c("arrow", "checkmate", "DescTools", "detrendr", 
+                               "dplyr", "embed", "forcats", "foreach", "fs", 
+                               "future", "ggplot2", "ggpmisc", "ggstatsplot", 
+                               "ggthemes", "glue", "janitor", "knitr", 
+                               "magrittr", "mockery", "patchwork", "plotly", 
+                               "png", "pROC", "purrr", "qualV", "readr", 
+                               "recipes", "rlang", "rmarkdown", "rrcov", 
+                               "rsample", "scales", "spelling", "strex", 
+                               "stringr", "testthat", "tidyr", "tidyverse", 
+                               "withr", "zeallot", "zoo"), update = TRUE, ask 
+                               = FALSE) 
+
+3.  The tar.gz files are at `built/mirmisc_x.x.x.tar.gz`. At the command
+    line, enter
+
+    ``` commandline
+    R CMD INSTALL {path-to-latest-targz-file}
+    ```
+
+## Documentation
+
+See the `pkgdown` site at <https://mirvie.gitlab.io/mirmisc/>.

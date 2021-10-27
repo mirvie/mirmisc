@@ -1,6 +1,6 @@
 Package: mirmisc
 Title: Non-Modeling Helper Functions For Mirvie R Coders
-Version: 0.1.2
+Version: 0.3.0
 Authors@R: 
     c(person(given = "Rory",
              family = "Nolan",
@@ -27,9 +27,9 @@ Authors@R:
              role = "aut",
              email = "morten@mirvie.com"))
 Maintainer: Rory Nolan <rory@mirvie.com>
-Description: We have random bits of code that are quite useful.
-    This is a home for those scripts.
-License: MIT + file LICENSE
+Description: We have random bits of code that are quite useful. This is a
+    home for it.
+License: file LICENSE
 URL: https://gitlab.com/Mirvie/mirmisc
 BugReports: https://gitlab.com/Mirvie/mirmisc/-/issues
 Imports: 
@@ -38,11 +38,13 @@ Imports:
     DescTools,
     detrendr (>= 0.6.12),
     dplyr (>= 1.0.0),
+    forcats,
     foreach,
     fs,
     future,
     ggplot2,
     ggpmisc,
+    ggstatsplot,
     ggthemes,
     glue,
     janitor,
@@ -52,6 +54,7 @@ Imports:
     png,
     pROC,
     purrr,
+    qualV,
     readr,
     rlang,
     rrcov,
@@ -59,10 +62,12 @@ Imports:
     scales,
     strex,
     stringr,
+    tidyr,
     utils,
     zeallot,
     zoo
 Suggests: 
+    datasets,
     embed,
     knitr,
     mirmodels,
@@ -72,9 +77,8 @@ Suggests:
     rmarkdown,
     spelling,
     testthat (>= 3.0),
-    vdiffr,
-    withr,
-    datasets
+    tidyverse,
+    withr
 VignetteBuilder: 
     knitr
 Config/testthat/edition: 3
@@ -83,4 +87,4 @@ Encoding: UTF-8
 Language: en-US
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
